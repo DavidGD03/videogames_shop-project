@@ -1,2 +1,2 @@
 # videogames_shop-project
-Proyecto en Java de la tienda de videojuegos "Virtual Game".
+Proyecto de una web para la tienda de videojuegos ficticia "Virtual Game".
